@@ -1,0 +1,490 @@
+company,total_layoffs,impacted_workforce_percentage,reported_date,industry,headquarter_location,sources,status,additional_notes,known_total_layoffs,known_impacted_workforce_percentage
+C2FO,20.0,2.0,2022-12-09,"fintech, payments","Leawood, KS",Kansas City Business Journal,Private,None,1,1
+VideoAmp,,2.0,2022-09-19,advertising platforms,Los Angeles,Company memo,Private,None,0,1
+Amperity,13.0,3.0,2022-08-20,"saas, analytics",Seattle,Geekwire,Private,None,1,1
+Addepar,20.0,3.0,2023-01-18,"fintech, data analytics","Mountain View, CA",Fortune,Private,None,1,1
+Thirty Madison,24.0,3.0,2022-05-13,health care,New York,Axios,Private,"Per Axios, 22 of the employees laid off were from Thirty Madison, and two were from new parent company Nurx. Layoffs affected around 3% of employees.",1,1
+NextRoll,,3.0,2022-07-08,marketing tech,San Francisco,Business Insider,Private,None,0,1
+Armis Security,25.0,4.0,2022-12-08,cybersecurity,San Francisco,Calcalistech,Private,None,1,1
+Foxtrot,26.0,4.0,2022-09-23,"food and beverage, e-commerce",Chicago,Chicago Business,Private,None,1,1
+Headspace Health,50.0,4.0,2022-12-14,"telehealth, wellness",Los Angeles,Bloomberg,Private,None,1,1
+RealSelf,11.0,5.0,2022-07-21,beauty tech,Seattle,GeekWire,Private,None,1,1
+New Relic,110.0,5.0,2022-08-18,"productivity, enterprise software","Bay Area, CA",MarketWatch,Private,None,1,1
+Abra,12.0,5.0,2022-06-30,crypto,Mountain View,The Block,Private,None,1,1
+Clarify Health,15.0,5.0,2022-07-22,health care,San Francisco,Axios,Private,None,1,1
+Argo AI,150.0,5.0,2022-07-07,transportation,Pittsburgh,TechCrunch,Private,None,1,1
+Snyk,220.0,5.0,2022-10-24,cybersecurity,Boston,Globes,Private,None,1,1
+JOKR,50.0,5.0,2022-06-16,"food delivery, ecommerce",New York,TechCrunch,Private,None,1,1
+Project44,63.0,5.0,2022-07-15,logistics,Chicago,FreightWaves,Private,None,1,1
+Reef,750.0,5.0,2022-05-06,"food delivery, ecommerce",Miami,The Information,Private,None,1,1
+Outreach,,5.0,2022-08-02,sales tech,Seattle,LinkedIn,Private,None,0,1
+Boosted Commerce,,5.0,2022-07-25,e-commerce,Los Angeles,Business Insider,Private,None,0,1
+Forward,,5.0,2022-07-11,health care,San Francisco,Fierce Healthcare,Private,None,0,1
+CoinDCX,100.0,6.0,2023-01-11,"blockchain, cryptocurrency","Mumbai, India",Biometric Update,Private,None,1,1
+Food52,20.0,6.0,2022-04-08,"media, e-commerce",New York,Digiday,Private,None,1,1
+Motive,237.0,6.0,2022-12-07,"enterprise software, productivity",San Francisco,Motive,Private,None,1,1
+Canoo,58.0,6.0,2022-07-01,transportation,"Torrance, California",Business Insider,Private,None,1,1
+Wonder,130.0,7.0,2022-11-30,"food delivery, ecommerce",New York,The Information,Private,None,1,1
+Argyle,20.0,7.0,2022-08-26,insurtech,New York,TechCrunch,Private,None,1,1
+Kabam,35.0,7.0,2022-11-09,video games,San Francisco,TechCrunch,Private,None,1,1
+Upstart,60.0,7.0,2022-11-01,fintech,"San Carlos, CA",TechCrunch,Private,None,1,1
+Gemini,68.0,7.0,2022-07-18,crypto,New York,TechCrunch,Private,None,1,1
+Faire,84.0,7.0,2022-11-03,"e-commerce, retail",San Francisco,The Information,Private,None,1,1
+Convoy,90.0,7.0,2022-06-09,logistics,Seattle,GeekWire,Private,None,1,1
+DataRobot,,7.0,2022-08-08,artificial intelligence,Boston,Boston Globe,Private,None,0,1
+ShipBob,,7.0,2022-08-25,"shipping, logistics",Chicago,Business Insider,Private,None,0,1
+ClickUp,,7.0,2022-05-24,productivity tools,San Diego,Protocol,Private,None,0,1
+Innovaccer,120.0,8.0,2022-09-01,"cloud infrastructure, health care",San Francisco,Inc42,Private,None,1,1
+StockX,120.0,8.0,2022-06-28,e-commerce,Detroit,The Information,Private,None,1,1
+Albert,20.0,8.0,2022-06-10,fintech,Los Angeles,dot.LA,Private,None,1,1
+Personetics,30.0,8.0,2023-01-05,"fintech, analytics",New York,Calcalistech,Private,None,1,1
+Bright Machines,30.0,8.0,2022-06-28,robotics,San Francisco,CTech,Private,None,1,1
+Stash Financial,32.0,8.0,2022-12-06,"fintech, personal finance",New York,Stash,Private,None,1,1
+Dutchie,56.0,8.0,2022-06-06,cannabis,"Bend, Oregon",GeekWire,Private,None,1,1
+Stord,59.0,8.0,2022-06-03,logistics,Atlanta,Business Insider,Private,None,1,1
+Niantic,85.0,8.0,2022-06-29,"video games, ar",San Francisco,Bloomberg,Private,None,1,1
+Picsart,90.0,8.0,2022-05-17,media/entertainment,Miami,The Information,Private,None,1,1
+Jellysmack,,8.0,2022-06-09,media/entertainment,New York,Business Insider,Private,None,0,1
+Remote,100.0,9.0,2022-07-06,hr tech,San Francisco,Publico,Private,None,1,1
+Vox Media,169.0,9.0,2023-01-20,"digital media, journalism","Washington, DC",CNN,Private,None,1,1
+Yotpo,70.0,9.0,2022-11-16,"marketing, media",New York,Calcalistech,Private,None,1,1
+Aura,70.0,9.0,2022-06-24,cybersecurity,Boston,Bank Info Security,Private,None,1,1
+Komodo Health,78.0,9.0,2022-12-13,"health care, predictive analytics",San Francisco,TechCrunch,Private,None,1,1
+Jellyfish US,,9.0,2023-01-13,"engineering, software",Boston,BostonInno,Private,None,0,1
+Khoros,120.0,10.0,2022-10-21,"saas, enterprise software",Austin,Austin Business News,Private,None,1,1
+Bonterra,140.0,10.0,2023-01-13,"social impact, finance",Distributed,The Nonprofit Times,Private,None,1,1
+Chargebee,142.0,10.0,2022-11-02,"fintech, saas",San Francisco,TechCrunch,Private,None,1,1
+6sense,150.0,10.0,2022-10-12,"artificial intelligence, machine learning",San Francisco,MoneyControl,Private,None,1,1
+Relativity,150.0,10.0,2022-12-07,"data science, enterprise",Chicago,Crain's Chicago,Private,None,1,1
+TIFIN,21.0,10.0,2022-06-14,fintech,Boulder,Axios,Private,None,1,1
+Lusha,30.0,10.0,2022-07-18,sales tech,New York,CTech,Private,None,1,1
+Aqua Security,65.0,10.0,2022-12-05,"secops, security","Burlington, MA",Calcalistech,Private,None,1,1
+Spin,78.0,10.0,2022-09-30,transportation,San Francisco,TechCrunch,Private,None,1,1
+Verbit,80.0,10.0,2022-07-05,natural language processing,New York,CTech,Private,None,1,1
+ZenLedger,,10.0,2022-12-09,"blockchain, cryptocurrency","Bellevue, WA",Blockworks,Private,None,0,1
+Firework,,10.0,2022-11-29,"e-commerce, retail",San Francisco,The Information,Private,None,0,1
+Mythical Games,,10.0,2022-11-04,"video games, blockchain",Los Angeles,Bloomberg,Private,None,0,1
+Apartment List,,10.0,2022-08-31,proptech,San Francisco,CEO Matthew Woods,Private,None,0,1
+impact.com,,10.0,2022-08-25,digital marketing,"Santa Barbara, CA",impact.com,Private,None,0,1
+80 Acres Farms,,10.0,2023-01-18,"indoor farming, agtech","Hamilton, OH",CincinnatiInno,Private,None,0,1
+98point6,,10.0,2022-07-21,health care,Seattle,GeekWire,Private,None,0,1
+Gemini,,10.0,2022-06-02,"fintech, crypto",New York,Bloomberg,Private,None,0,1
+Side,,10.0,2022-06-01,proptech,San Francisco,Inman,Private,None,0,1
+Carta,200.0,10.0,2023-01-11,fintech,San Francisco,TechCrunch,Private,None,1,1
+ConsenSys,100.0,11.0,2023-01-10,"cryptocurrency, fintech",New York,CoinDesk,Private,None,1,1
+Tipalti,123.0,11.0,2023-01-11,fintech,San Mateo,Calcalistech,Private,None,1,1
+Brex,136.0,11.0,2022-10-11,fintech,San Francisco,TechCrunch,Private,None,1,1
+Salsify,90.0,11.0,2022-11-16,"cloud computing, e-commerce",Boston,Boston Business Journal,Private,None,1,1
+SADA,,11.0,2022-11-08,"cloud computing, it",Los Angeles,SADA CEO,Private,None,0,1
+Momentive,,11.0,2022-10-14,information technology,"Waterford, MI",TechCrunch,Private,None,0,1
+Automox,,11.0,2022-04-18,security,Boulder,LinkedIn,Private,None,0,1
+Klarna,750.0,12.0,2022-09-22,fintech,Stockholm,Sifted,Private,None,1,1
+JumpCloud,100.0,12.0,2023-01-18,"cloud services, cybersecurity","Louisville, CO",JumpCloud,Private,None,1,1
+Chime,156.0,12.0,2022-11-02,fintech,San Francisco,The Information,Private,None,1,1
+Embroker,30.0,12.0,2022-10-25,insurtech,San Francisco,The Insurer,Private,None,1,1
+Divvy Homes,40.0,12.0,2022-09-27,proptech,San Franicsco,The Information,Private,None,1,1
+Ethos Life,40.0,12.0,2022-06-24,insurtech,San Francisco,Coverager,Private,None,1,1
+GoFundMe,94.0,12.0,2022-10-26,crowdfunding,"Redwood City, CA",GoFundMe,Private,None,1,1
+Digital Currency Group,10.0,13.0,2022-11-02,cryptocurrency,"Stamford, CT",Coindesk,Private,None,1,1
+Intercom,124.0,13.0,2022-11-14,"customer service, automation",San Franicsco,Silicon Republic,Private,None,1,1
+SundaySky,24.0,13.0,2022-07-11,video conferencing software,New York,Globes,Private,"Layoffs affect employees in the U.S., Israel, and Japan. Layoffs affected around 13% of employees.",1,1
+Chipper Cash,50.0,13.0,2022-12-06,"fintech, money transfer",San Francisco,TechCrunch,Private,None,1,1
+Udacity,55.0,13.0,2022-10-11,"edtech, artificial intelligence","Mountain View, CA",Udacity,Private,None,1,1
+Sourcepoint,7.0,13.0,2022-06-02,"privacy tech, marketing tech",New York,Crunchbase News reporting,Private,Company did not respond to a request to confirm details of layoffs. Layoffs affected around 13% of employees.,1,1
+Thirty Madison,,13.0,2022-08-18,"health care, wellness",Greater New York area,Fierce Healthcare,Private,None,0,1
+Sendoso,100.0,14.0,2022-06-06,marketing automation,San Francisco,Business Insider,Private,None,1,1
+Malwarebytes,125.0,14.0,2022-08-17,"security, enterprise software",San Francisco,TechCrunch,Private,None,1,1
+Substack,13.0,14.0,2022-06-29,"media, content creators",San Francisco,New York Times,Private,None,1,1
+Morning Brew,,14.0,2022-11-17,"media, news",New York,Max Tani,Private,None,0,1
+Benitago Group,,14.0,2022-11-04,"e-commerce, retail",New York,TechCrunch,Private,None,0,1
+Juniper Square,,14.0,2022-09-06,proptech,San Francisco,The Real Deal,Private,None,0,1
+Nayya,16.0,15.0,2022-06-17,"employee benefits, hr tech",New York,Crunchbase News reporting,Private,None,1,1
+Verily,250.0,15.0,2023-01-11,"health care, data collection",San Francisco,The Information,Private,None,1,1
+CyCognito,30.0,15.0,2022-12-08,cybersecurity,Palo Alto,Calcalistech,Private,None,1,1
+Zumper,45.0,15.0,2022-06-16,proptech,San Francisco,The Real Deal,Private,None,1,1
+Polly,47.0,15.0,2022-12-02,"insurtech, fintech","Williston, VT",VT Digger,Private,None,1,1
+Woven,5.0,15.0,2022-08-16,"artificial intelligence, recruiting",Indianapolis,AdAge,Private,None,1,1
+The Mom Project,54.0,15.0,2022-07-20,talent marketplace,Chicago,LinkedIn,Private,None,1,1
+SonderMind,,15.0,2022-12-16,telehealth,Denver,Denver Business Journal,Private,None,0,1
+Apollo,,15.0,2022-12-15,"developer apis, enterprise software",San Francisco,Apollo,Private,None,0,1
+Code42,,15.0,2022-11-07,"cybersecurity, enterprise software",Minneapolis,Star Tribune,Private,None,0,1
+Flowhub,,15.0,2022-09-09,cannabis,Dever,Business Insider,Private,None,0,1
+Daily Harvest,,15.0,2022-08-08,"food delivery, ecommerce",New York City,Fortune,Private,None,0,1
+Rock Content,,15.0,2023-01-12,"content marketing, advertising","Boca Raton, FL",Terra,Private,None,0,1
+Lattice,,15.0,2023-01-12,"enterprise applications, hr",San Francisco,Lattice CEO Jack Altman,Private,None,0,1
+Citrix Systems,,15.0,2023-01-10,"security, saas","Fort Lauderdale, FL",TechCrunch,Private,None,0,1
+WHOOP,,15.0,2022-07-21,fitness,Boston,Front Office Sports,Private,None,0,1
+Papa,,15.0,2022-07-14,elder care,Miami,LinkedIn,Private,None,0,1
+Sundae,,15.0,2022-06-28,"proptech, real estate",San Francisco,Real Trends,Private,None,0,1
+TruePill,,15.0,2022-06-08,health care,"Hayward, California",TruePill,Private,None,0,1
+Terminus,,15.0,2022-05-27,marketing,Atlanta,LinkedIn,Private,None,0,1
+Outside Inc,,15.0,2022-05-20,media/entertainment,Boulder,Denver Business Journal,Private,None,0,1
+Stream,20.0,15.0,2022-06-30,communications infrastructure,Boulder,Pragmatic Engineer,Private,None,1,1
+Carbon Health,450.0,16.0,2023-01-06,health care,San Francisco,Carbon Health CEO Eren Bali,Private,None,1,1
+Jam City,200.0,17.0,2022-08-04,"mobile apps, gaming",Culver City,VentureBeat,Private,None,1,1
+Next Insurance,150.0,17.0,2022-07-07,insurtech,Palo Alto,CTech,Private,None,1,1
+OwnBackup,170.0,17.0,2022-11-15,"saas, enterprise software","Englewood Cliffs, NJ",Calcalistech,Private,None,1,1
+Everlane,30.0,17.0,2023-01-05,"fashion, e-commerce",San Francisco,The Information,Private,None,1,1
+Patreon,80.0,17.0,2022-09-13,social media,San Francisco,The Information,Private,None,1,1
+Recharge,84.0,17.0,2022-10-27,fintech,Los Angeles,Recharge CEO,Private,None,1,1
+Nextiva,,17.0,2022-12-06,customer service,Phoenix,Channel Futures,Private,None,0,1
+Grove Collaborative,,17.0,2022-03-29,e-commerce,San Francisco,Retail Dive,Private,None,0,1
+Lithic,27.0,18.0,2022-12-07,fintech,New York,Axios,Private,None,1,1
+SQream Technologies,30.0,18.0,2022-07-06,data analytics,New York,CTech,Private,None,1,1
+Emotive,30.0,18.0,2022-07-07,sms marketing,Los Angeles,dot.LA,Private,None,1,1
+Amount,,18.0,2022-06-27,fintech,Chicago,TechCrunch,Private,None,0,1
+Ro,,18.0,2022-06-23,health care,New York,TechCrunch,Private,None,0,1
+Socure,104.0,19.0,2023-01-05,"cybsersecurity, predictive analytics","Incline Village, NV",Biometric Update,Private,None,1,1
+Postscript,43.0,19.0,2022-06-26,"marketing tech, sms marketing",San Francisco,Alex Beller,Private,None,1,1
+Qumolo,80.0,19.0,2022-06-29,data storage,Seattle,GeekWire,Private,None,1,1
+OfferUp,,19.0,2022-11-15,"e-commerce, marketplace","Bellevue, WA",GeekWire,Private,None,0,1
+Change.org,,19.0,2022-07-28,civictech,San Francisco,Change.org,Private,None,0,1
+HomeLight,,19.0,2022-06-29,"proptech, real estate",San Francisco,The Real Deal,Private,None,0,1
+Homeward,120.0,20.0,2022-08-11,"real estate, proptech",Austin,The Real Deal,Private,None,1,1
+Turntide,130.0,20.0,2022-07-28,"cleantech, energy","Sunnyvale, CA",Business Insider,Private,None,1,1
+Flyhomes,150.0,20.0,2022-07-20,"real estate, proptech",Seattle,GeekWire,Private,None,1,1
+Curology,150.0,20.0,2022-03-16,e-commerce,San Francisco,SF Business Times,Private,None,1,1
+MasterClass,156.0,20.0,2022-06-22,edtech,San Francisco,MasterClass CEO David Rogier,Private,None,1,1
+Lacework,200.0,20.0,2022-05-26,cybersecurity,San Jose,The Information,Private,None,1,1
+Equitybee,25.0,20.0,2022-10-31,fintech,San Francisco,Calcalistech,Private,None,1,1
+Airtable,254.0,20.0,2022-12-08,"data science, enterprise",San Francisco,Airtable,Private,None,1,1
+Plaid,260.0,20.0,2022-12-07,fintech,San Francisco,TechCrunch,Private,None,1,1
+Nate,30.0,20.0,2022-08-30,e-commerce,New York,The Information,Private,"Nate reportedly had two layoffs. In June, the company laid of 30 people, or 20% of the company at the time.",1,1
+Coterie Insurance,30.0,20.0,2022-05-27,insurtech,Cincinnati,CincyInno,Private,None,1,1
+Intrinsic,40.0,20.0,2023-01-11,"robotics, ai","Mountain View, CA",This Information,Private,None,1,1
+Rhino,57.0,20.0,2022-02-03,"proptech, insurtech",New York,The Real Deal,Private,None,1,1
+Flexport,640.0,20.0,2023-01-11,shipping and logistics,San Francisco,CNBC,Private,None,1,1
+Redesign Health,67.0,20.0,2022-10-10,health care,New York,Fast Company,Private,None,1,1
+Astronomer,76.0,20.0,2023-01-04,"data analytics, cloud services",Cincinnati,Astronomer,Private,None,1,1
+Calm,90.0,20.0,2022-08-11,"personal health, wellness",San Francisco,Wall Street Journal,Private,None,1,1
+Shippo,,20.0,2022-11-03,logistics,San Francisco,Shippo CEO,Private,None,0,1
+Brightline,,20.0,2022-11-01,health care,"Palo Alto, CA",Behavioral Health Business,Private,None,0,1
+Scale,,20.0,2023-01-09,"ai, image recognition",San Francisco,Scale,Private,None,0,1
+OpenSea,,20.0,2022-07-14,"crypto, nft marketplace",New York,Devin Finzer,Private,None,0,1
+Buzzer,,20.0,2022-06-20,"media, sports",New York,Sportico,Private,None,0,1
+Greenlight,104.0,21.0,2023-01-12,"fintech, banking",Atlanta,TechCrunch,Private,None,1,1
+Flipboard,24.0,21.0,2022-10-16,news,"Palo Alto, CA",Axios,Private,None,1,1
+Advata,32.0,21.0,2022-10-28,"health care, analytics","Bellevue, WA",GeekWire,Private,None,1,1
+Superhuman,23.0,22.0,2022-06-03,email software,San Francisco,CEO Rahul Vohra,Private,None,1,1
+Exodus,59.0,22.0,2022-11-04,"cryptocurrency, blockchain","Nebraska City, NE",Exodus CEO,Private,None,1,1
+Tonkean,23.0,23.0,2022-06-15,software,San Francisco,The Marker,Private,None,1,1
+Lokalise,76.0,23.0,2022-11-16,"saas, apis","Dover, DE",Lokalise founders,Private,None,1,1
+Karbon,,23.0,2022-09-12,"productivity, task management",San Francisco,"Stuart McLeod, CEO of Karbon",Private,None,0,1
+Loom,57.0,24.0,2022-10-20,enterprise communication,San Francisco,SFGate,Private,None,1,1
+Cedar,,24.0,2022-07-07,health care,New York,Business Insider,Private,None,0,1
+Hyperscience,100.0,25.0,2022-03-03,ai,New York,The Information,Private,None,1,1
+Celsius,150.0,25.0,2022-07-03,crypto,"Hoboken, New Jersey",CTech,Private,None,1,1
+Baton,16.0,25.0,2022-06-29,"transporation, logistics",San Francisco,Freight Waves,Private,None,1,1
+Policygenius,170.0,25.0,2022-06-02,insurtech,New York,TechCrunch,Private,None,1,1
+IRL,25.0,25.0,2022-06-02,social media,San Francisco,TechCrunch,Private,None,1,1
+Vise,25.0,25.0,2022-05-04,fintech,New York,CityWire,Private,None,1,1
+Section4,32.0,25.0,2022-05-12,edtech,New York,TechCrunch,Private,None,1,1
+Capitolis,37.0,25.0,2022-11-17,fintech,New York,Calcalistech,Private,None,1,1
+On Deck,72.0,25.0,2022-05-05,business development,San Francisco,TechCrunch,Private,None,1,1
+Outschool,74.0,25.0,2022-12-10,edtech,San Francisco,TechCrunch,Private,"Outschool laid off 31 people, or 18% of the company, back in July. In December it laid off another 43 people, which amounted to 25% of the staff at the time.",1,1
+OneTrust,950.0,25.0,2022-06-09,cybersecurity,Atlanta,OneTrust,Private,None,1,1
+OneStudyTeam,,25.0,2022-12-06,"health care, cloud infrastructure",Boston,Mobi Health News,Private,None,0,1
+Homeward,,25.0,2022-11-16,proptech,"Austin, TX",Homeward,Private,None,0,1
+Medium,,25.0,2022-09-06,publishing,San Francisco,"Lauren Newton, Head of People at Medium",Private,None,0,1
+SafeGraph,27.0,25.0,2022-06-27,"artificial intelligence, machine learning",San Francisco,SafeGraph,Private,None,1,1
+DataRobot,,26.0,2022-08-23,"ai, enterprise software",Boston,The Information,Private,None,0,1
+EquityZen,30.0,27.0,2022-10-31,fintech,New York,Axios,Private,None,1,1
+Clear Capital,378.0,27.0,2022-10-14,proptech,"Truckee, CA",TechCrunch,Private,None,1,1
+Shelf Engine,43.0,29.0,2022-07-29,"food tech, software, grocery tech",Seattle,GeekWire,Private,None,1,1
+Veev,100.0,30.0,2022-11-11,proptech,San Mateo,Calcalistech,Private,None,1,1
+Pacaso,100.0,30.0,2022-10-11,proptech,San Francisco,Inman,Private,None,1,1
+Snappy,100.0,30.0,2023-01-13,"social impact, company benefits",New York,Calcalistech,Private,None,1,1
+Kraken,1100.0,30.0,2022-11-30,cryptocurrency,San Francisco,Kraken,Private,None,1,1
+AtoB,32.0,30.0,2022-10-19,fintech,San Francisco,SFGate,Private,None,1,1
+Genesis,60.0,30.0,2023-01-05,"cryptocurrency, blockchain",New York,CNBC,Private,None,1,1
+Almanac,,30.0,2022-08-13,"collaboration, productivity",San Francisco,LinkedIn,Private,None,0,1
+SuperRare,,30.0,2023-01-06,"blockchain, cryptocurrency","Newark, DE",TechCrunch,Private,None,0,1
+Homie,162.0,32.0,2022-10-04,proptech,"South Jordan, Utah","TechCrunch, Crunchbase News reporting",Private,None,1,1
+Socure,173.0,32.0,2023-01-05,identity verification,Reno,Biometric Update,Private,None,1,1
+Bolt,250.0,33.0,2022-05-25,fintech,San Francisco,Fortune,Private,None,1,1
+Candy Digital,33.0,33.0,2022-11-28,cryptocurrency,New York,Decrypt,Private,None,1,1
+Ideoclick,40.0,33.0,2022-05-04,e-commerce,Seattle,Puget Sound Business Journal,Private,None,1,1
+Brave Care,40.0,33.0,2022-09-06,"pediatrics, telehealth",Portland,The Oregonian,Private,None,1,1
+Tomo,44.0,33.0,2022-05-31,"fintech, proptech",Stamford,Business Insider,Private,None,1,1
+MainStreet,50.0,33.0,2022-05-04,fintech,San Jose,Insider,Private,None,1,1
+Replicated,50.0,33.0,2022-05-31,enterprise software,Los Angeles,Replicated,Private,None,1,1
+Hologram,80.0,33.0,2022-06-09,iot,Chicago,Crain's Chicago Business,Private,None,1,1
+Esper,,33.0,2023-01-10,devops,Seattle,GeekWire,Private,None,0,1
+TruePill,,33.0,2022-09-30,"pharmaceutical, health care","Hayward, CA",TechCrunch,Private,None,0,1
+Happy Money,158.0,34.0,2022-11-30,"fintech, payments",Los Angeles,LinkedIn reports,Private,None,1,1
+Tonal,262.0,35.0,2022-07-13,fitness,San Francisco,CNBC,Private,None,1,1
+Hydrow,70.0,35.0,2022-07-21,fitness,Boston,Boston Globe,Private,None,1,1
+Callisto Media,,35.0,2022-10-25,analytics,"Emeryville, California",Publishers Weekly,Private,None,0,1
+Lunchbox,,37.0,2023-01-10,"restaurant tech, food tech",New York,Business Insider,Private,None,0,1
+Fabric,120.0,40.0,2022-07-13,"e-commerce, logistics",New York,TechCrunch,Private,None,1,1
+Rasa,59.0,40.0,2022-04-04,artificial intelligence,San Francisco,Business Insider,Private,"Rasa was founded in Berlin but moved its headquarters to San Francisco in 2019. Layoffs affected employees in the U.S., Germany, and U.K. Layoffs affected around 40% of employees.",1,1
+NCX,,40.0,2022-11-28,"renewable energy, forestry",San Francisco,NCX,Private,None,0,1
+Fundbox,150.0,42.0,2022-10-25,fintech,San Francisco,Calcalistech,Private,None,1,1
+Zeus Living,64.0,46.0,2022-10-20,"home decor, proptech",San Francisco,San Francisco Business Journal,Private,None,1,1
+Knock,,46.0,2022-03-15,proptech,New York,The Real Deal,Private,None,0,1
+Ocavu,20.0,48.0,2022-11-10,cryptocurrency,"Lehi, UT",Salt Lake Tribune,Private,None,1,1
+Better.com,5000.0,50.0,2022-04-19,fintech,New York,TechCrunch,Private,None,1,1
+Virgin Hyperloop,111.0,50.0,2022-02-22,transporation,Los Angeles,Fortune,Private,None,1,1
+Notarize,170.0,50.0,2022-10-31,legal tech,Boston,Boston Business Journal,Private,None,1,1
+Iron Ox,50.0,50.0,2022-11-02,"agtech, food and beverage",San Francisco,TechCrunch,Private,None,1,1
+BloomTech,88.0,50.0,2022-12-01,edtech,San Francisco,TechCrunch,Private,None,1,1
+Medly Pharmacy,,50.0,2022-09-07,"pharmacy, health care",New York,Crain's New York,Private,None,0,1
+Bizzabo,220.0,60.0,2022-12-01,virtual event,New York,Calcalistech,Private,None,1,1
+Parler,60.0,75.0,2023-01-10,social media,"Nashville, TN",The Verge,Private,None,1,1
+Mojo Vision,,75.0,2023-01-06,"ar, health care","Saratoga, CA",TechCrunch,Private,None,0,1
+Uniphore,76.0,76.0,2023-01-03,"artificial intelligence, machine learning","Palo Alto, CA",Outlook Start-Up,Private,None,1,1
+Butler Hospitality,1000.0,100.0,2022-07-08,hospitality,New York,TechCrunch,Private,None,1,1
+SummerBio,101.0,100.0,2022-06-20,"health care, diagnostics",Menlo Park,Bay Area Inno,Private,None,1,1
+Reali,140.0,100.0,2022-08-24,proptech,"San Mateo, CA",Calcalistech,Private,None,1,1
+Fast,400.0,100.0,2022-04-05,fintech,San Francisco,The Information,Private,None,1,1
+Protocol Media,60.0,100.0,2022-11-15,"news, media",San Francisco,CNN,Private,None,1,1
+WanderJaunt,85.0,100.0,2022-07-01,"proptech, real estate",San Francisco,Short Term Rentalz,Private,None,1,1
+Wyre,,100.0,2023-01-04,"cryptocurrency, blockchain",San Francisco,Blockworks,Private,None,0,1
+Lantern,,100.0,2023-01-06,"e-commerce, consumer lending","Grand Rapids, MI",Lantern CEO Meredith Mahoney,Private,None,0,1
+Lora DiCarlo Inc.,,100.0,2022-12-02,"wellness, consumer goods","Bend, OR",TechCrunch,Private,None,0,1
+Bitfront,,100.0,2022-11-29,cryptocurrency,"Palo Alto, CA",Reuters,Private,None,0,1
+Assure,,100.0,2022-11-23,fintech,Salt Lake City,Axios,Private,None,0,1
+GloriFi,,100.0,2022-11-21,fintech,Dallas,WSJ,Private,None,0,1
+Kite,,100.0,2022-11-16,"ai, coding",San Francisco,Kite,Private,None,0,1
+Wavely,,100.0,2022-11-10,"hiring, hr","Palo Alto, CA",Wavely,Private,None,0,1
+Fifth Season,,100.0,2022-10-28,vertical farming,Pittsburgh,Pittsburgh Business Journal,Private,None,0,1
+Argo AI,,100.0,2022-10-26,transportation,Pittsburgh,TechCrunch,Private,None,0,1
+CommonBond,,100.0,2022-09-09,"fintech, loan repayments",New York,"David Klein, CEO of CommonBond",Private,None,0,1
+The Wing,,100.0,2022-08-31,coworking,New York,The Information,Private,None,0,1
+Edmodo,,100.0,2022-08-16,edtech,"San Mateo, CA",EdSurge,Private,None,0,1
+Haus,,100.0,2022-08-08,food and beverage,"Healdsburg, CA",TechCrunch,Private,None,0,1
+BlockFi,,100.0,2022-11-28,crypto,Jersey City,Decrypt,Private,None,0,1
+Pesto,,100.0,2022-09-23,"it, future of work",San Francisco,Pesto announcement,Private,None,0,1
+Kitty Hawk,,100.0,2022-09-21,aerospace,Mountain View,CNBC,Private,None,0,1
+Subspace,,100.0,2022-05-13,media/entertainment,Los Angeles,LinkedIn,Private,None,0,1
+Halcyon Health,,100.0,2022-04-15,health care,New York,Axios,Private,None,0,1
+Ahead,,100.0,2022-04-14,health care,"Santa Clara, CA",Bloomberg,Private,None,0,1
+100 Thieves,12.0,,2023-01-10,"esports, media",Los Angeles,Dexerto,Private,"More than a dozen employees were reportedly laid off in July. In January, the company laid off more employees.",1,0
+Orbit,14.0,,2022-08-12,productivity software,San Francisco,Orbit CEO Patrick Woods,Private,Orbit CEO Patrick Woods announced at least 14 people have been laid off,1,0
+Cybereason,100.0,,2022-06-01,cybersecurity,Boston,CTech,Private,"Affected employees are in U.S., Israel, and Europe.",1,0
+Progrexion,100.0,,2022-06-07,fintech,Salt Lake City,Crunchbase News,Private,None,1,0
+Gem,100.0,,2022-11-02,recruiting,San Francisco,Gem CEO,Private,None,1,0
+Glossier,104.0,,2022-08-02,beauty,New York,Modern Retail,Private,None,1,0
+Stripe,1050.0,,2022-11-03,fintech,San Francisco,Bloomberg,Private,None,1,0
+Curative,109.0,,2022-09-20,health diagnostics,Los Angeles,Digital Health,Private,None,1,0
+Noom,1095.0,,2022-10-11,fitness/digital health,New York,TechCrunch,Private,None,1,0
+Homepoint,113.0,,2022-11-17,proptech,"Greenville, SC",Phoenix Business Journal,Private,None,1,0
+Arc,13.0,,2022-07-20,hr tech,Mountain View,LinkedIn,Private,None,1,0
+ChowNow,140.0,,2022-12-14,"restaurant tech, food tech","Playa Visa, California",Restaurant Business Online,Private,None,1,0
+Healthcare.com,149.0,,2022-08-03,insurtech,"Miami, FL",Miami Inno,Private,None,1,0
+Finite State,16.0,,2022-06-17,cybersecurity,Columbus,ColumbusInno,Private,None,1,0
+Rad Power Bikes,163.0,,2022-07-21,transporation,Seattle,GeekWire,Private,"First round of layoffs was in April, second round in July.",1,0
+Cameo,167.0,,2022-05-04,media/entertainment,Chicago,The Information,Private,None,1,0
+Weedmaps,175.0,,2022-12-06,"marijuana, marketing","Irvine, CA",Business Insider,Private,None,1,0
+Orchard,180.0,,2022-11-17,proptech,New York,Inman,Private,None,1,0
+Clyde,19.0,,2022-04-25,e-commerce,New York,External Spreadsheet,Private,None,1,0
+AvantStay,224.0,,2022-11-09,travel,Los Angeles,Skift,Private,None,1,0
+Booking.com,226.0,,2022-11-01,"travel, hotels","Grand Rapids, MI",Crain's Detroit Business,Private,None,1,0
+Aspire,23.0,,2022-07-15,marketing tech,San Francisco,Business Insider,Private,None,1,0
+Gopuff,2300.0,,2022-10-21,e-commerce,Philadelphia,"Bloomberg, The Information",Private,"First round of layoffs was in January, second round was in March, third round was in July, and the fourth round was in October.",1,0
+Eaze,25.0,,2022-06-02,cannabis,San Francisco,Business Insider,Private,None,1,0
+Nuro,310.0,,2022-11-18,transportation,Mountain View,The Robot Report,Private,None,1,0
+Citizen,33.0,,2023-01-11,surveillance,New York,TechCrunch,Private,None,1,0
+Balto,35.0,,2022-12-12,"artificial intelligence, machine learning",St. Louis,St. Louis Business Journal,Private,None,1,0
+Hopin,370.0,,2022-07-11,virtual event,London,TechCrunch,Private,None,1,0
+Vial,40.0,,2023-01-13,"health care, clinical trials",San Francisco,Business Insider,Private,None,1,0
+Wistia,40.0,,2022-11-10,"video production, marketing","Cambridge, MA",Wistia CEO,Private,None,1,0
+FreshDirect,40.0,,2022-08-25,"food delivery, ecommerce","The Bronx, NY",Philadelphia Business Journal,Private,None,1,0
+Adwerx,40.0,,2022-07-12,digital marketing,"Durham, North Carolina",Inman,Private,None,1,0
+Community,40.0,,2022-06-22,social media,Los Angeles,Business Insider,Private,None,1,0
+Esme Learning,40.0,,2022-06-02,edtech,"Newton, Massachusetts","Esme Learning, Crunchbase News reporting",Private,None,1,0
+Luxury Presence,44.0,,2023-01-17,"proptech, advertising","Santa Monica, CA",Inman,Private,None,1,0
+Hubilo,45.0,,2022-07-12,virtual events,San Francisco,Inc42,Private,None,1,0
+Olive,450.0,,2022-07-19,health care,Columbus,Olive,Private,None,1,0
+Imperfect Foods,50.0,,2022-08-01,"grocery, e-commerce, delivery service",San Francisco,San Francisco Business Times,Private,None,1,0
+Tempo Automation,54.0,,2022-08-17,automotive,San Francisco,San Francisco Business Times,Private,None,1,0
+Chili Piper,58.0,,2022-11-17,"enterprise software, productivity",New York,Chili Piper,Private,None,1,0
+On Deck,73.0,,2022-08-04,"networking, business development",San Francisco,TechCrunch,Private,None,1,0
+Varo,75.0,,2022-07-20,fintech,San Francisco,Axios,Private,None,1,0
+Nylas,80.0,,2022-08-02,"software, emails, api",San Francisco,Nylas,Private,None,1,0
+Career Karma,82.0,,2023-01-12,"career planning, social network",San Francisco,TechCrunch,Private,None,1,0
+Rev.com,85.0,,2022-10-07,"speech recognition, artificial intelligence",San Francisco,Austin American-Statesman,Private,None,1,0
+The Zebra,90.0,,2022-11-15,"insurance, fintech","Austin, TX",Coverager,Private,None,1,0
+Colossus,97.0,,2022-05-20,"solar, software",Massachusetts,Axios,Private,None,1,0
+OnlyFans,,,2022-08-01,"social media, creator economy",London,Business Insider,Private,OnlyFans is based in the UK but has a sizeable workforce in the US,0,0
+Talkdesk,,,2022-05-19,customer service,San Francisco,Confirmed by CB News from source,Private,Sources say hundreds of employees have been laid off,0,0
+StubHub,,,2022-08-04,"e-commerce, ticketing",San Francisco,StubHub on LinkedIn,Private,StubHub announced they would be letting go of the majority of their employees on a LinkedIn post,0,0
+Cerebral,,,2022-10-24,health care,San Francisco,Wall Street Journal,Private,The company previously laid off employees in May.,0,0
+Elemy,,,2022-12-05,health care,San Francisco,Behavioral Health Business,Private,The company previously laid off workers in July.,0,0
+TikTok,,,2022-07-18,social media,Los Angeles,Wired,Private,"TikTok is owned by China-based ByteDance, but the layoffs affected staff in the U.S.",0,0
+RateGenius,,,2023-01-17,"consumer lending, fintech","Austin, TX",AustinInno,Private,None,0,0
+GoCanvas,,,2023-01-13,"productivity, enterprise software","Reston, VA",GoCanvas CEO Viyas Sundaram,Private,None,0,0
+CoSchedule,,,2023-01-13,"productivity, marketing","Bismarck, ND",Inforum,Private,None,0,0
+Oyster,,,2023-01-11,"human resources, saas","Charlotte, NC",Oyster,Private,None,0,0
+Embark,,,2023-01-11,"pet tech, health care",Boston,Embark CEP Ryan Boyko,Private,None,0,0
+Cart.com,,,2023-01-10,"e-commerce, dtc","Austin, TX",AustinInno,Private,None,0,0
+CreateMe Technologies,,,2023-01-06,"product design, apparel","New City, NY",San Francisco Business Times,Private,None,0,0
+CareerArc,,,2023-01-06,"human resources, recruiting",Los Angeles,CareerArc,Private,None,0,0
+Autograph,,,2022-12-16,"cryptocurrency, blockchain","Santa Monica, CA",Business Insider,Private,None,0,0
+Convene,,,2022-12-10,"proptech, hospitality",New York,Convene CEO Ryan Simonetti,Private,None,0,0
+Autobooks,,,2022-12-10,"fintech, payments",Detroit,Crain's Detroit Business,Private,None,0,0
+Zywave,,,2022-12-07,"insurtech, cloud computing",Milwaukee,Milwaukee Business Journal,Private,None,0,0
+CircleCI,,,2022-12-07,"automation, it",San Francisco,CircleCI,Private,None,0,0
+Route,,,2022-12-05,"retail, e-commerce","Lehi, UT",Salt Lake Tribune,Private,None,0,0
+Inspectify,,,2022-11-28,proptech,Seattle,Puget Sound Business Journal,Private,None,0,0
+Storyblocks,,,2022-11-18,"media, video editing","Washington, DC",Storyblocks CEO,Private,None,0,0
+Metaplex,,,2022-11-18,cryptocurrency,Chicago,AMBCrypto,Private,None,0,0
+Kandji,,,2022-11-17,"it, software",San Diego,LinkedIn reports,Private,None,0,0
+Reforge,,,2022-11-10,hr tech,San Francisco,Reforge CEO,Private,None,0,0
+Amobee,,,2022-11-09,"adtech, digital marketing","Redwood City, CA",Amobee,Private,None,0,0
+Domino Data Lab,,,2022-11-07,"ai, big data",San Francisco,LinkedIn reports,Private,None,0,0
+Spreetail,,,2022-10-27,"retail, e-commerce","Lincoln, NE",Spreetail CEO,Private,None,0,0
+TigerGraph,,,2022-10-25,analytics,"Redwood City, CA",Sources within the company,Private,None,0,0
+Clever Real Estate,,,2022-10-19,proptech,St. Louis,St. Louis Business Journal,Private,None,0,0
+Noodle,,,2022-10-18,edtech,New York,LinkedIn,Private,None,0,0
+Built In,,,2022-10-05,networking,Chicago,LinkedIn,Private,None,0,0
+Instacart,,,2022-09-24,"delivery, e-commerce",San Francisco,The Information,Private,None,0,0
+DayTwo,,,2022-09-15,"health care, nutrition","Walnut Creek, CA",Calcalistech,Private,None,0,0
+WorkRamp,,,2022-09-15,"saas, enterprise software","San Carlos, CA",LinkedIn,Private,None,0,0
+Sundae,,,2022-09-13,proptech,San Francisco,Confirmed by CB News from sources,Private,None,0,0
+Sama,,,2022-09-12,"ai, enterprise software",San Francisco,Sama,Private,None,0,0
+DreamBox Learning,,,2022-09-09,edtech,Seattle,Geekwire,Private,None,0,0
+FullStory,,,2022-09-08,"saas, data",Atlanta,"Scott Voigt, CEO of FullStory",Private,None,0,0
+realtor.com,,,2022-09-08,proptech,"Santa Clara, CA",SFGate,Private,None,0,0
+Fungible,,,2022-08-29,cryptocurrency,"Santa Clara, CA",Blocks & Files,Private,None,0,0
+Pix,,,2022-08-24,foodtech,"Napa, CA",San Francisco Chronicle,Private,None,0,0
+People.ai,,,2022-07-26,"ai, sales",San Francisco,LinkedIn,Private,None,0,0
+Capsule,,,2022-07-21,health care,New York,Crain's New York,Private,None,0,0
+InVision,,,2022-07-21,"visual collaboration, apps",New York,LinkedIn,Private,None,0,0
+Alto Pharmacy,,,2022-07-14,health care,San Francisco,LinkedIn,Private,None,0,0
+Spring,,,2022-07-13,e-commerce,San Francisco,Business Insider,Private,None,0,0
+Nextbite,,,2022-07-08,"restaurant tech, food tech",Denver,Business Insider,Private,None,0,0
+LetsGetChecked,,,2022-07-02,health care,New York,Business Post,Private,None,0,0
+Teleport,,,2022-07-01,cloud infrastructure,Oakland,Teleport,Private,None,0,0
+Modsy,,,2022-06-29,e-commerce,San Francisco,TechCrunch,Private,None,0,0
+Degreed,,,2022-06-29,edtech,"Pleasanton, CA",LinkedIn,Private,None,0,0
+Keepe,,,2022-06-10,proptech,Seattle,GeekWire,Private,None,0,0
+Liongard,,,2022-06-10,it infrastructure,Houston,CRN,Private,None,0,0
+Deep Instinct,,,2022-06-08,cybersecurity,New York,Crunchbase News,Private,None,0,0
+ID.Me,,,2022-06-07,identity verification,"McLean, Virginia",Business Insider,Private,None,0,0
+Clubhouse,,,2022-06-03,"social media, audio",San Francisco,Bloomberg,Private,None,0,0
+Zwift,,,2022-05-12,fitness,Long Beach,DC Rainmaker,Private,None,0,0
+Tripwire,,,2022-05-12,security,Portland,OregonLive,Private,None,0,0
+Mural,,,2022-05-06,product design,San Francisco,Protocol,Private,None,0,0
+Thrasio,,,2022-05-02,e-commerce,"Walpole, MA",Insider,Private,None,0,0
+Workrise,,,2022-04-05,marketplace,"Austin, TX",TechCrunch,Private,None,0,0
+F5,100.0,1.0,2022-10-21,"saas, enterprise software",Seattle,GeekWire,Public,None,1,1
+Affirm,,1.0,2022-11-03,"fintech, loans",San Francisco,The Information,Public,None,0,1
+Freshworks,90.0,2.0,2022-12-15,"crm, it","San Mateo, CA",Inc42,Public,None,1,1
+Coursera,32.0,3.0,2022-11-09,edtech,"Mountain View, CA",Coursera CEO,Public,None,1,1
+Outbrain,38.0,3.0,2022-07-26,digital marketing,New York,CTech,Public,None,1,1
+WalkMe,43.0,3.0,2023-01-08,"edtech, product management",San Francisco,Calcalistech,Public,None,1,1
+Amdocs,700.0,3.0,2023-01-02,"crm, enterprise software","Chesterfield, MO",Calcalistech,Public,None,1,1
+Nutanix,270.0,4.0,2022-08-10,"data center, enterprise software",San Jose,SFGate,Public,None,1,1
+Varonis Systems,110.0,5.0,2022-11-06,cybersecurity,New York,Calcalistech,Public,"Half of its layoffs happened at its R&D center in Israel, per reports. Layoffs affected 5% of employees.",1,1
+Amazon,18000.0,5.0,2023-01-05,"e-commerce, saas",Seattle,Wall Street Journal,Public,None,1,1
+Zillow,300.0,5.0,2022-10-26,proptech,Seattle,TechCrunch,Public,None,1,1
+Zendesk,350.0,5.0,2022-11-07,"enterprise software, customer service",San Francisco,SFGate,Public,None,1,1
+Cisco,4100.0,5.0,2022-11-16,"enterprise software, saas","San Jose, CA",Silicon Valley Business Journal,Public,None,1,1
+TechTarget,60.0,5.0,2022-12-08,marketing,"Newton, MA",MarketWatch,Public,None,1,1
+BlackLine,95.0,5.0,2022-12-08,enterprise software,Los Angeles,Seeking Alpha,Public,None,1,1
+Sweetgreen,,5.0,2022-08-09,"food and beverage, restaurants","Washington, DC",CNBC,Public,None,0,1
+Taboola,100.0,6.0,2022-09-13,content marketing,New York,Calcalistech,Public,None,1,1
+Spotify,588.0,6.0,2023-01-24,music,"Stockholm, Sweden",TechCrunch,Public,None,1,1
+DoorDash,1250.0,6.0,2022-11-30,"food delivery, ecommerce",San Francisco,Reuters,Public,None,1,1
+Latch,30.0,6.0,2022-05-13,"smart home, security",New York,TechCrunch,Public,None,1,1
+Teladoc Health,300.0,6.0,2023-01-18,"health care, telehealth","Purchase, NY",Digital Health,Public,None,1,1
+Definitive Healthcare,55.0,6.0,2023-01-12,"health care, analytics","Framingham, MA",CMLVIZ,Public,None,1,1
+Rivian,840.0,6.0,2022-07-28,"electric vehicle, transportation","Irvine, CA",CNN,Public,None,1,1
+Vimeo,,6.0,2023-01-04,media/entertainment,New York,Vimeo,Public,None,0,1
+nCino,100.0,7.0,2023-01-18,"fintech, software","Wilmington, NC",Port City Daily,Public,None,1,1
+8x8,155.0,7.0,2023-01-18,"telecommunications, enterprise software","San Jose, CA",Channel Futures,Public,None,1,1
+Roku,200.0,7.0,2022-11-17,"media, streaming","Los Gatos, CA",Variety,Public,None,1,1
+Informatica,450.0,7.0,2023-01-10,"big data, cloud computing","Redwood City, CA",Channel Futures,Public,None,1,1
+BigBear.ai,,7.0,2022-09-08,"data analytics, national defense","Columbia, MD",Baltimore Business Journal,Public,None,0,1
+Unity,509.0,8.0,2023-01-17,video games,San Francisco,WSJ,Public,None,1,1
+Asana,180.0,9.0,2022-11-15,"collaboration, enterprise software",San Francisco,Asana COO,Public,None,1,1
+Pear Therapeutics,25.0,9.0,2022-07-25,"software, biotech",Boston,MassDevice,Public,None,1,1
+DocuSign,,9.0,2022-09-28,e-signature,San Francisco,CNBC,Public,None,0,1
+ForeScout Technologies,100.0,10.0,2023-01-10,"cybersecurity, cloud services","San Jose, CA",Calcalistech,Public,None,1,1
+Shopify,1000.0,10.0,2022-07-26,e-commerce,"Ottawa, Canada",WSJ,Public,None,1,1
+Similarweb,120.0,10.0,2022-11-16,"ai, analytics",New York,Globes,Public,None,1,1
+iRobot,140.0,10.0,2022-08-05,"artificial intelligence, robotics","Bedford, MA",Geekwire,Public,None,1,1
+Blend,200.0,10.0,2022-04-19,fintech,San Francisco,HousingWire,Public,None,1,1
+Skillz,70.0,10.0,2022-05-20,esports/video games,San Francisco,TechCrunch,Public,None,1,1
+Beachbody,70.0,10.0,2022-01-27,fitness,"Santa Monica, CA",Club Industry,Public,None,1,1
+Zulily,99.0,10.0,2022-05-16,e-commerce,Seattle,GeekWire,Public,None,1,1
+Compass,,10.0,2023-01-05,proptech,New York,Bloomberg,Public,None,0,1
+SoundHound,,10.0,2023-01-05,conversational ai,"Santa Clara, CA",SoundHound,Public,None,0,1
+Blue Apron,,10.0,2022-12-08,"grocery, e-commerce, delivery service",New York,Blue Apron,Public,None,0,1
+Core Scientific,,10.0,2022-08-12,"blockchain, cryptocurrency",Austin,Blockworks,Public,None,0,1
+Kaltura,75.0,11.0,2023-01-04,"developer apis, enterprise software",New York,Globes,Public,None,1,1
+Twilio,800.0,11.0,2022-09-14,enterprise software,San Francisco,TechCrunch,Public,None,1,1
+Zuora,,11.0,2022-12-06,cloud infrastructure,"San Mateo, CA",MarketWatch,Public,None,0,1
+BuzzFeed,180.0,12.0,2022-12-06,"media, news",New York,Variety,Public,None,1,1
+AppLovin,300.0,12.0,2022-06-29,"mobile apps, developer tools",Palo Alto,Silicon Valley Business Journal,Public,None,1,1
+DesktopMetal,,12.0,2022-06-13,3d printing,"Burlington, Massachusetts",MarketWatch,Public,None,0,1
+Meta,11000.0,13.0,2022-11-09,social media,"Menlo Park, CA",CNBC,Public,None,1,1
+Integral Ad Science,120.0,13.0,2022-12-07,"data science, enterprise",New York,Integral Ad Science,Public,None,1,1
+BigCommerce,,13.0,2022-12-15,"enterprise software, e-commerce","Austin, TX",MarketWatch,Public,None,0,1
+Elastic,,13.0,2022-11-30,"analytics, saas",San Francisco,Elastic,Public,None,0,1
+Lending Club,225.0,14.0,2023-01-12,"fintech, banking",San Francisco,Bloomberg,Public,None,1,1
+Edgio,95.0,14.0,2022-12-13,"cloud computing, web hosting","Tempe, AZ",Edgio,Public,None,1,1
+Life360,,14.0,2023-01-12,mobile apps,San Francisco,Life360 statement,Public,None,0,1
+Groupon,500.0,15.0,2022-08-08,"ecommerce, retail",Chicago,TechCrunch,Public,None,1,1
+Lyft,760.0,15.0,2022-11-03,transportation,San Francisco,WSJ,Public,None,1,1
+Baakt,,15.0,2022-12-08,cryptocurrency,"Alpharetta, GA",Baakt,Public,None,0,1
+ThredUp,,15.0,2022-08-15,"e-commerce, fashion","Oakland, CA",Retail Dive,Public,None,0,1
+Limeade,,15.0,2023-01-11,"employee benefits, hr tech","Bellevue, WA",GeekWire,Public,None,0,1
+GoodRx,140.0,16.0,2022-08-31,"health care, pharmaceuticals",Los Angeles,Seeking Alpha,Public,None,1,1
+Astra,,16.0,2022-11-08,"aerospace, space","Alameda, CA",Astra CEO,Public,None,0,1
+Enjoy,400.0,18.0,2022-06-30,"e-commerce, delivery",Palo Alto,Bloomberg,Public,None,1,1
+Opendoor,550.0,18.0,2022-11-02,proptech,San Francisco,Opendoor CEO,Public,None,1,1
+Redfin,1332.0,19.0,2022-11-09,proptech,Seattle,Bloomberg,Public,None,1,1
+Snap,1280.0,20.0,2022-08-31,social media,"Venice, CA",The Verge,Public,None,1,1
+Pluralsight,400.0,20.0,2022-12-12,"edtech, it","Draper, UT",Pluralsight,Public,None,1,1
+Metromile,60.0,20.0,2022-07-29,"insurtech, transportation",San Francisco,Crunchbase,Public,None,1,1
+GoHealth,800.0,20.0,2022-08-11,"health care, health insurance",Chicago,Chicago Sun Times,Public,None,1,1
+Sezzle,,20.0,2022-03-10,fintech,Minneapolis,Reuters,Public,None,0,1
+Pagaya,,20.0,2023-01-18,"fintech, ai",New York,Reuters,Public,None,0,1
+2U,,20.0,2022-08-01,edtech,"Hyattsville, MD",Inside Higher Ed,Public,None,0,1
+Leafly,56.0,21.0,2022-10-18,cannabis,Seattle,Leafly,Public,None,1,1
+Sonder,,21.0,2022-06-10,hospitality,San Francisco,MarketWatch,Public,None,0,1
+Bird,138.0,23.0,2022-06-07,transporation,Santa Monica,TechCrunch,Public,None,1,1
+Rent the Runway,,24.0,2022-09-12,"e-commerce, retail",New York,Wall Street Journal,Public,None,0,1
+TuSimple,350.0,25.0,2022-12-21,"electric vehicle, transportation",San Diego,TechCrunch,Public,None,1,1
+Qualtrics,,25.0,2023-01-11,"saas, enterprise software","Provo, UT",MarketWatch,Public,None,0,1
+PayPal,83.0,27.0,2022-05-23,fintech,San Jose,The Information,Public,None,1,1
+Blend,,28.0,2023-01-10,"fintech, proptech",San Francisco,Inman,Public,None,0,1
+Juul,400.0,30.0,2022-11-10,"consumer goods, vape pens",San Francisco,CNBC,Public,None,1,1
+Akili Interactive Labs,46.0,30.0,2023-01-12,health care,Boston,Behavioral Health Business,Public,None,1,1
+Robinhood,1013.0,33.0,2022-08-02,fintech,Menlo Park,Robinhood,Public,None,1,1
+Playtika,250.0,33.0,2022-05-31,gaming,Tel Aviv,Globes,Public,"Closing studios in London, Montreal, and Los Angeles. Layoffs affected around 33% of employees.",1,1
+Vroom,647.0,33.0,2022-08-08,"auto, e-commerce",New York,Automotive News,Public,None,1,1
+Stitch Fix,,35.0,2023-01-05,"ecommerce, fashion",San Francisco,CNBC,Public,None,0,1
+Latch,115.0,37.0,2022-08-02,proptech,"New York, NY",Latch,Public,None,1,1
+Sema4,750.0,39.0,2022-11-14,"ai, health care","Stamford, CT",MarketWatch,Public,None,1,1
+Root Insurance,467.0,40.0,2022-11-09,insurtech,Columbus,Columbus Dispatch,Public,None,1,1
+Coinbase,2110.0,43.0,2023-01-10,crypto,San Francisco,CNBC,Public,None,1,1
+Volta Charging,,54.0,2022-10-21,"automotive, electric vehicles",San Francisco,Volta,Public,None,0,1
+Twitter,3740.0,70.0,2023-01-05,social media,San Francisco,The Information,Public,None,1,1
+Starry,,74.0,2023-01-18,"wifi, hardware",Boston,SEC filings,Public,None,0,1
+RingCentral,80.0,,2023-01-17,"saas, meeting software","Belmont, CA",Barron's,Public,None,1,0
+Carvana,4000.0,,2023-01-13,"automotive, ecommerce",Tempe,WSJ,Public,None,1,0
+Adobe,100.0,,2022-12-06,"marketing, software, saas","San Jose, CA",Bloomberg,Public,None,1,0
+Invitae,1000.0,,2022-07-18,"health care, biotech",San Francisco,GenomeWeb,Public,None,1,0
+Microsoft,10000.0,,2023-01-18,enterprise software,Seattle,Microsoft,Public,None,1,0
+Alphabet,12000.0,,2023-01-20,"big tech, internet services","Mountain View, CA",CNBC,Public,None,1,0
+Qualcomm,153.0,,2022-12-22,"telecommunication, wireless",San Diego,San Diego Union-Tribune,Public,None,1,0
+Okta,24.0,,2022-08-26,"enterprise software, management information systems",San Francisco,Unleash,Public,None,1,0
+Beyond Meat,240.0,,2022-10-14,foodtech,"Manhattan Beach, CA",CNBC,Public,None,1,0
+WeWork,300.0,,2023-01-19,"real estate, proptech",New York,WeWork,Public,None,1,0
+Peloton,4084.0,,2022-10-06,fitness,New York,CNBC,Public,"Peloton previously laid off 3,584 in February",1,0
+UiPath,451.0,,2022-11-15,artificial intelligence,New York,MarketWatch,Public,None,1,0
+Netflix,480.0,,2022-09-14,media/entertainment,Los Gatos,Deadline,Public,None,1,0
+Cue,558.0,,2023-01-05,health care,San Diego,360dx,Public,None,1,0
+Warby Parker,63.0,,2022-08-08,"ecommerce, fashion",New York City,Insider,Public,None,1,0
+HashiCorp,69.0,,2023-01-11,"cybersecurity, cloud infrastructure",San Francisco,Crunchbase News Reporting,Public,None,1,0
+Quanergy Systems,72.0,,2022-12-14,autonomous vehicles,"Sunnyvale, CA",Silicon Valley Business Journal,Public,None,1,0
+Doma,825.0,,2022-12-06,"insurtech, machine learning",San Francsico,Doma,Public,The company previously laid off workers in May.,1,0
+Wayfair,870.0,,2022-08-19,"e-commerce, retail",Boston,Boston Globe,Public,None,1,0
+Salesforce,9090.0,,2023-01-04,"enterprise tech, analytics",San Francisco,New York Times,Public,None,1,0
+Oracle,,,2022-08-01,"saas, enterprise software",Austin,The Information,Public,The Information reported thousands of people would be laid off,0,0
+LivePerson,,,2022-09-15,customer service,New York,LinkedIn,Public,None,0,0
+Skillz,,,2022-08-29,"mobile apps, gaming",San Francisco,Seeking Alpha,Public,None,0,0
+Blueboard,,,2022-11-03,enterprise software,San Francisco,LinkedIn reports,Private,None,0,0
