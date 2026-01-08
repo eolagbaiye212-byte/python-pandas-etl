@@ -193,6 +193,7 @@ This will execute all stages in sequence:
 - `PGPASSWORD` is required and must be set
 - The pipeline uses `if_exists='replace'` mode, which drops and recreates tables on each run
 - Numeric columns with 'Unclear' values are converted to NaN for proper statistical operations
+- Data validated locally on PostgreSQL
 
 ## Future Enhancements
 
