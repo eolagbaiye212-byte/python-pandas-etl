@@ -245,9 +245,7 @@ The pipeline includes comprehensive validation checks:
 
 ## Future Enhancements
 
-- Add data validation and quality checks
 - Implement incremental loading (upsert) instead of full replacement
-- Add logging for pipeline execution
 - Create SQL views for common analytical queries
 - Implement error handling and retry logic
 
