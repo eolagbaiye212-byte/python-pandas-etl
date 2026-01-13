@@ -36,24 +36,35 @@ The Gold layer creates a dimensional model with:
 ```
 Tech_Layoffs_Project/
 ├── main.py                      # Orchestrates the entire ETL pipeline
-├── ingest_csv.py               # Bronze layer - CSV ingestion
-├── clean_layoffs.py            # Silver layer - Data cleaning & transformation
-├── star_schema.py              # Gold layer - Star schema creation
-├── get_engine.py               # Database connection setup
-├── load_into_db.py             # Loads dataframes into PostgreSQL
+├── etl_log.txt                 # Logs all ETL process steps with timestamps
 ├── tech_layoffs_bronze.csv     # Bronze layer output
 ├── tech_layoffs_silver.csv     # Silver layer output
-└── README.md                   # This file
+├── README.md                   # This file
+├── database/
+│   ├── __init__.py
+│   ├── get_engine.py           # Database connection setup
+│   └── load_into_db.py         # Loads dataframes into PostgreSQL
+├── etl/
+│   ├── __init__.py
+│   ├── ingest_csv.py           # Bronze layer - CSV ingestion
+│   ├── clean_layoffs.py        # Silver layer - Data cleaning & transformation
+│   ├── star_schema.py          # Gold layer - Star schema creation
+│   ├── log_progress.py         # Logs ETL step timestamps
+│   └── reset_log.py            # Resets ETL log file
+└── sql/
+    ├── __init__.py
+    ├── validation_queries.py   # Data quality validation SQL queries
+    └── execute_validation.py   # Executes and displays validation results
 ```
 
 ## Data Processing Pipeline
 
-### 1. Ingestion (Bronze Layer - `ingest_csv.py`)
+### 1. Ingestion (Bronze Layer - `etl/ingest_csv.py`)
 - Reads raw CSV file from source
 - Minimal transformation - primarily copies data to Bronze layer
 - Output: `tech_layoffs_bronze.csv`
 
-### 2. Cleaning (Silver Layer - `clean_layoffs.py`)
+### 2. Cleaning (Silver Layer - `etl/clean_layoffs.py`)
 - Converts 'Unclear' values to NaN for numeric columns
 - Creates quality tracking columns:
   - `known_total_layoffs` - Boolean flag for data completeness
@@ -64,15 +75,28 @@ Tech_Layoffs_Project/
 - Enforces schema types
 - Output: `tech_layoffs_silver.csv`
 
-### 3. Modeling (Gold Layer - `star_schema.py`)
+### 3. Modeling (Gold Layer - `etl/star_schema.py`)
 - Creates dimension tables from Silver data
 - Generates fact table linking to dimensions via foreign keys
 - Returns dictionary of all tables ready for database loading
 
-### 4. Loading (`load_into_db.py`)
+### 4. Loading (`database/load_into_db.py`)
 - Iterates through dimension and fact tables
 - Writes each table to PostgreSQL database
 - Uses `if_exists='replace'` mode for table creation/refresh
+
+### 5. Validation (`sql/validation_queries.py` & `sql/execute_validation.py`)
+- Validates dimension table primary keys for nulls
+- Verifies total record counts match source data
+- Validates all foreign keys have matching dimension entries
+- Flags outlier layoff counts (>50,000 or negative)
+- Checks data consistency for companies appearing multiple times
+- Displays validation results with source data comparison
+
+### 6. Logging (`etl/log_progress.py` & `etl/reset_log.py`)
+- Records each ETL step with timestamps in `etl_log.txt`
+- Enables audit trail and troubleshooting
+- Resets log file at pipeline start
 
 ## Setup Instructions
 
@@ -125,10 +149,16 @@ python main.py
 ```
 
 This will execute all stages in sequence:
-1. Ingest raw CSV to Bronze layer
-2. Clean and transform to Silver layer
-3. Create star schema (Gold layer)
-4. Load all tables to PostgreSQL
+1. Reset ETL log and log process start
+2. Ingest raw CSV to Bronze layer
+3. Clean and transform to Silver layer
+4. Create star schema (Gold layer)
+5. Establish database connection
+6. Load all tables to PostgreSQL
+7. Execute data quality validation queries
+8. Log validation completion
+
+The pipeline maintains an audit trail in `etl_log.txt` with timestamps for each step.
 
 ## Data Dictionary
 
@@ -186,6 +216,12 @@ This will execute all stages in sequence:
 
 ✓ **Environment Configuration** - Database credentials managed via environment variables for security
 
+✓ **Data Validation** - Comprehensive SQL validation queries verify data integrity post-load
+
+✓ **ETL Logging** - Timestamped audit trail of all pipeline steps for monitoring and troubleshooting
+
+✓ **Modular Architecture** - Organized into logical modules (etl/, database/, sql/) for maintainability
+
 ## Notes
 
 - The pipeline assumes the raw source CSV exists at the path specified in `main.py`
@@ -193,6 +229,19 @@ This will execute all stages in sequence:
 - `PGPASSWORD` is required and must be set
 - The pipeline uses `if_exists='replace'` mode, which drops and recreates tables on each run
 - Numeric columns with 'Unclear' values are converted to NaN for proper statistical operations
+- ETL progress is logged with timestamps in `etl_log.txt` for audit trail purposes
+- Validation queries are automatically executed after data loading to verify data integrity
+
+## Validation Queries
+
+The pipeline includes comprehensive validation checks:
+
+1. **Primary Key Nulls** - Ensures all dimension table primary keys are non-null
+2. **Record Count** - Verifies fact table contains correct number of records
+3. **Foreign Key Integrity** - Confirms all fact table foreign keys reference existing dimension entries
+4. **Outlier Detection** - Flags layoff counts that seem impossibly high (>50,000) or negative
+5. **Consistency Check** - Validates that companies appearing multiple times have consistent attributes
+6. **Source Comparison** - Compares total records against raw source data
 
 ## Future Enhancements
 

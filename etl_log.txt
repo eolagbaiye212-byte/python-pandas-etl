@@ -1,0 +1,7 @@
+2026-Jan-12-19:18:42, ETL process started
+2026-Jan-12-19:18:42, Bronze layer complete
+2026-Jan-12-19:18:42, Silver layer complete
+2026-Jan-12-19:18:42, Gold layer complete
+2026-Jan-12-19:18:42, Connection to PostgreSQL database established
+2026-Jan-12-19:18:42, Data succesfully loaded into the database. ETL process complete.
+2026-Jan-12-19:18:42, Data in tech_layoffs successfully validated.
