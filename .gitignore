@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+etl_log.txt
+tech_layoffs_bronze.csv
+tech_layoffs_silver.csv
+.env
